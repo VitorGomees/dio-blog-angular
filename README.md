@@ -1,27 +1,29 @@
-# AngularBlog
+# Desafio de Projeto - Criando um Blog com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<br>
 
-## Development server
+Este repositório representa a entrega do desafio proposto em um dos cursos do bootcamp Coding The Future Banco PAN - Desenvolvimento Frontend com Angular, disponível na plataforma [Digital Innovation One (DIO)](https://www.dio.me/).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Acompanhei as aulas para concluir o projeto. Fiz algumas mudanças no original. Essas mudanças foram relacionadas à temática, portanto, a estrutura do material original foi aproveitada. Para funcionar precisei atualizar a versão do Angular. Uma descrição mais detalhada da build pode ser verificada no repositório original.
 
-## Code scaffolding
+Para verificar a página, basta utilizar o comando `ng serve` em seu terminal com esse repositório selecionado. Após a inicialização, acessar `http://localhost:4200/` em seu browser.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br>
 
-## Build
+## Descrição do Desafio
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<br>
 
-## Running unit tests
+<font size = "6">**Entendendo o Desafio** </font>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Seja criativo(a)! Explore todos os conceitos que aprendemos nessa imersão e replique (ou melhore, porque não) este projeto prático. Para isso, seu próprio repositório e, com isso, aumente ainda mais seu portfólio de projetos no GitHub!
+ 
+Dica: você pode dar um "fork" no Repositório do GitHub (App) para organizar suas alterações e evoluções, mantendo uma referência direta ao código original.
+ 
+<font size = "6">**GitHub** </font>
 
-## Running end-to-end tests
+Todo código-fonte desenvolvido para este conteúdo foi versionado no GitHub, no seguinte endereço: [https://github.com/felipeAguiarCode/angular-blog](https://github.com/felipeAguiarCode/angular-blog)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Bons estudos wink
+ 
+</br>
